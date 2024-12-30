@@ -1,11 +1,16 @@
 const qrcode = require('qrcode-terminal');
 const { Client, Buttons, List, MessageMedia } = require('whatsapp-web.js');
+const fs = require('fs');
+const path = require('path');
 
 // Inicialização do cliente
 const client = new Client();
 
 client.on('qr', qr => {
     qrcode.generate(qr, { small: true });
+    qrcode.toFile(path.join(__dirname, 'qr.png'), qr, () => {
+        console.log('QR Code salvo como qr.png');
+    });
 });
 
 client.on('ready', () => {
