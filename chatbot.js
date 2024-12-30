@@ -4,7 +4,12 @@ const fs = require('fs');
 const path = require('path');
 
 // Inicialização do cliente
-const client = new Client();
+const client = new Client({
+    puppeteer: {
+        args: ['--no-sandbox', '--disable-setuid-sandbox']
+    }
+});
+
 
 client.on('qr', qr => {
     qrcode.generate(qr, { small: true });
