@@ -33,30 +33,30 @@ const responses = {
         title: "Lash lifting",
         message: `Lash Lifting é um procedimento estético que realça os cílios naturais, proporcionando uma curvatura mais acentuada e duradoura sem a necessidade de extensões.
 
-Ideal para quem busca um olhar mais definido e natural, o tratamento utiliza produtos específicos para levantar e moldar os fios, com resultados que podem durar de 6 a 8 semanas. Além de prático, ele elimina a necessidade de usar curvex ou máscara de cílios diariamente. <br> Link para cadastro: https://site.com`,
+Ideal para quem busca um olhar mais definido e natural, o tratamento utiliza produtos específicos para levantar e moldar os fios, com resultados que podem durar de 6 a 8 semanas. Além de prático, ele elimina a necessidade de usar curvex ou máscara de cílios diariamente. <br> Link para cadastro: https://maapp.com.br/LanaLopesLash`,
 
     },
     "2": {
         title: "Lash cílios",
         message: `Lash cílios são extensões que realçam o olhar, proporcionando mais volume, comprimento e definição aos cílios naturais. A técnica é personalizada, garantindo um resultado único e elegante, ideal para quem busca praticidade e beleza no dia a dia.
 
-Link para cadastro: https://site.com`,
+Link para cadastro: https://maapp.com.br/LanaLopesLash`,
     },
     "3": {
         title: "Spa labial",
         message: `Spa labial é um tratamento que promove hidratação profunda, esfoliação e revitalização dos lábios. Ideal para suavizar rachaduras, melhorar a textura e realçar a beleza natural, deixando os lábios macios e saudáveis.
 
-Link para cadastro: https://site.com`,
+Link para cadastro: https://maapp.com.br/LanaLopesLash`,
     },
     "4": {
         title: "Henna labial",
         message: `Henna labial é um procedimento que realça a cor natural dos lábios de forma temporária, proporcionando definição e um tom mais uniforme. Ideal para quem busca praticidade e lábios mais bonitos no dia a dia.
         
-Acesse agora: https://site.com`,
+Acesse agora: https://maapp.com.br/LanaLopesLash`,
     },
     "5": {
         title: "Designe de sobrancelha",
-        message: `Design de sobrancelhas é a técnica que realça o formato natural das sobrancelhas, respeitando as características do rosto. Proporciona harmonia e expressão ao olhar, valorizando a beleza única de cada pessoa. Acesse agora: https://site.com`,
+        message: `Design de sobrancelhas é a técnica que realça o formato natural das sobrancelhas, respeitando as características do rosto. Proporciona harmonia e expressão ao olhar, valorizando a beleza única de cada pessoa. Acesse agora: https://maapp.com.br/LanaLopesLash`,
     },
 };
 
